@@ -1,0 +1,11 @@
+.vs
+Library/
+Temp/
+Build/
+[Oo]bj/
+Logs/
+*.csproj
+*.sln
+UnityPackageManager/
+/*.user
+/UWP
